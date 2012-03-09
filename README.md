@@ -1,7 +1,7 @@
 Bash scripts to run java applications in daemon mode
 ===================================================
 
-Minimalistic bash scripts which can run (start and stop) java application in daemon mode. Tested in Linux and Solaris.
+Minimalistic bash scripts which can run (start and stop) java application in daemon mode. You can run your Java app on remote server through SSH and app won't stop after SSH logout. Tested in Linux and Solaris.
 
 How it works
 ------------
