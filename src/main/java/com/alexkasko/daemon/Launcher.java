@@ -1,4 +1,4 @@
-package org.alx3apps.jd.example;
+package com.alexkasko.daemon;
 
 import java.util.Date;
 
@@ -9,7 +9,7 @@ import java.util.Date;
 public class Launcher {
     public static void main(String args[]) throws InterruptedException {
         while(true) {
-            System.out.println(new Date() + ", I'm running");
+            System.out.println(new Date() + ", I'm running as daemon");
             Thread.sleep(5000);
         }
     }

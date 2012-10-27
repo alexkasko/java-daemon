@@ -7,10 +7,10 @@
     <artifactId>java-daemon</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    <name>Example Of Running Java Process In Daemon Mode</name>
+    <name>Running Java Process In Daemon Mode Example</name>
 
     <properties>
-            <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <build>
@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.alx3apps.jd.example.Launcher</mainClass>
+                            <mainClass>com.alexkasko.daemon.Launcher</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

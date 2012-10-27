@@ -27,7 +27,6 @@
     <dependencySets>
         <dependencySet>
             <outputDirectory>bin</outputDirectory>
-            <!--<outputFileNameMapping>${artifact.artifactId}.${artifact.extension}</outputFileNameMapping>-->
             <outputFileNameMapping>my-app.jar</outputFileNameMapping>
             <unpack>false</unpack>
             <useProjectArtifact>true</useProjectArtifact>
