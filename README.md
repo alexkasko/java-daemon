@@ -35,5 +35,6 @@ How to build example
  * app root folder will be in `java-daemon/target/java-daemon-1.0-distr`
 
 License information
---------------------
-You may use any code from this project under terms of [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+-------------------
+
+This project is released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
